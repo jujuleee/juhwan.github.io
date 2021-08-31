@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.052bead9.chunk.css",
+    "main.js": "/static/js/main.a1dae96d.chunk.js",
+    "main.js.map": "/static/js/main.a1dae96d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4b7fecfe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4b7fecfe.js.map",
+    "static/js/2.11acd425.chunk.js": "/static/js/2.11acd425.chunk.js",
+    "static/js/2.11acd425.chunk.js.map": "/static/js/2.11acd425.chunk.js.map",
+    "static/js/3.7210962d.chunk.js": "/static/js/3.7210962d.chunk.js",
+    "static/js/3.7210962d.chunk.js.map": "/static/js/3.7210962d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.052bead9.chunk.css.map": "/static/css/main.052bead9.chunk.css.map",
+    "static/js/2.11acd425.chunk.js.LICENSE.txt": "/static/js/2.11acd425.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/jodern.6c498bb4.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b7fecfe.js",
+    "static/js/2.11acd425.chunk.js",
+    "static/css/main.052bead9.chunk.css",
+    "static/js/main.a1dae96d.chunk.js"
+  ]
+}
